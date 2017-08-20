@@ -10,9 +10,9 @@
       <class>br.com.vicente.entity.AcessoEntity</class>
       <class>br.com.vicente.entity.SistemaEntity</class>
       <properties>
-         <property name="hibernate.dialect" value="org.hibernate.dialect.PostgreSQLDialect"/>
-         <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver"/>
-         <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://172.30.6.214:5432/controle_sistemas"/>
+         <property name="hibernate.dialect" value="org.hibernate.dialect.MySQLDialect"/>
+         <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
+         <property name="javax.persistence.jdbc.url" value="jdbc:mysql://172.30.11.215:3306/controle_sistemas"/>
          <property name="javax.persistence.jdbc.user" value="vicente5871"/>
          <property name="javax.persistence.jdbc.password" value="controle7158"/>
          <property name="hibernate.show_sql" value="false"/>
