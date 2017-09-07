@@ -13,8 +13,8 @@
          <property name="hibernate.dialect" value="org.hibernate.dialect.PostgreSQLDialect"/>
          <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver"/>
          <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://ec2-184-73-189-221.compute-1.amazonaws.com:5432/d10tjturma8j3v"/>
-         <property name="javax.persistence.jdbc.user" value="vicente5871"/>
-         <property name="javax.persistence.jdbc.password" value="controle7158"/>
+         <property name="javax.persistence.jdbc.user" value="kozwhzmjbrbnmf"/>
+         <property name="javax.persistence.jdbc.password" value="3923618951ece3581c1213a9dcef2b557884c4fd69e502677df218fc58bce915"/>
          
          <property name="javax.persistence.schema-generation.database.action" value="drop-and-create" />
       	 <property name="javax.persistence.schema-generation.create-source" value="metadata" />
